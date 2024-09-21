@@ -13,22 +13,20 @@ while True:
     num2 = int(input("choose your second number: "))
     if symbol == "+":
         answer = num1 + num2
-        print(num1, symbol, num2, "=", answer)
     elif symbol == "-":
         answer = num1 - num2
-        print(num1, symbol, num2, "=", answer)
     elif symbol == "x":
         answer = num1 * num2
-        print(num1, symbol, num2, "=", answer)
     elif symbol == "/":
         answer = num1 / num2
-        print(num1, symbol, num2, "=", answer)
     elif symbol == "^":
         answer = num1 ** num2
-        print(num1, symbol, num2, "=", answer)
     else:
         error_message()
         break
+
+    print(num1, symbol, num2, "=", answer)
+
     again = input("want to do it again? (y/n): ")
     if again == "n":
         break
