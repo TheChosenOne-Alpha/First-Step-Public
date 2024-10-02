@@ -20,6 +20,18 @@ date: 2024/08/??
 
 Made with Unity
 
-unzip file and download
+How to play:
 
-it is not a virus(this sounds suspicious)
+1. click the "download raw file" button on the right
+
+2. open a downloaded file
+
+3. click flappybird file
+
+4. open the Flappy Bird application file
+
+5. extract
+
+6. open the file (ignore the warning from Windows protection)  it is not a virus(this sounds suspicious)
+
+7. Play!
