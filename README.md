@@ -1,5 +1,4 @@
 # Unity Games
-date: 2024/08/??
 
 Made with Unity
 
@@ -19,7 +18,25 @@ How to play:
 
 7. Play!
 
+#Flappy Bird
 
+2024/08/??
+
+made with unity
+
+flappy bird copy
+
+learn how to use unity
+
+#3D world
+
+2024/10/02
+
+made with unity
+
+learn how to use 3d tools
+
+learn how to make an FPP game
 
 # Calculator
 date: 2024/09/10
