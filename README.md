@@ -18,7 +18,7 @@ How to play:
 
 7. Play!
 
-# Flappy Bird
+  # Flappy Bird
 
 2024/08/??
 
@@ -28,7 +28,7 @@ flappy bird copy
 
 learn how to use unity
 
-# 3D world
+  # 3D world
 
 2024/10/02
 
