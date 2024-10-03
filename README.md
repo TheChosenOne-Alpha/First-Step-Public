@@ -15,7 +15,7 @@ memory game
 
 practice print lane change
 
-# Flappy Bird
+# Unity Games
 date: 2024/08/??
 
 Made with Unity
@@ -26,9 +26,9 @@ How to play:
 
 2. open a downloaded file
 
-3. click flappybird file
+3. click the game file
 
-4. open the Flappy Bird application file
+4. open the game application file
 
 5. extract
 
