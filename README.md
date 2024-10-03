@@ -1,6 +1,6 @@
 # Unity Games
 
-Made with Unity
+Instruction for Every Unity Games
 
 How to play:
 
@@ -18,21 +18,21 @@ How to play:
 
 7. Play!
 
-  # Flappy Bird
+## Flappy Bird
+
+Unity Game
 
 2024/08/??
-
-made with unity
 
 flappy bird copy
 
 learn how to use unity
 
-  # 3D world
+## 3D world
+
+Unity Game
 
 2024/10/02
-
-made with unity
 
 learn how to use 3d tools
 
